@@ -1,2 +1,1 @@
-new1 my readme
-new update
+How to be up to date in git
